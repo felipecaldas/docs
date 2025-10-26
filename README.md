@@ -1,43 +1,89 @@
-# Mintlify Starter Kit
+# Tabario
 
-Use the starter kit to get your docs deployed and ready to customize.
+**Create social media videos in minutes — powered by AI.**
 
-Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
+[www.tabario.com](https://www.tabario.com)
 
-- Guide pages
-- Navigation
-- Customizations
-- API reference pages
-- Use of popular components
+---
 
-**[Follow the full quickstart guide](https://starter.mintlify.com/quickstart)**
+## What is Tabario?
 
-## Development
+**Tabario** is an AI-powered video creation platform designed to help individuals, creators, and marketing agencies quickly generate high-quality videos for social media.\
+No need for editing skills or production teams — just describe your idea, and let Tabario handle the rest.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mint) to preview your documentation changes locally. To install, use the following command:
+---
 
-```
-npm i -g mint
-```
+## How It Works
 
-Run the following command at the root of your documentation, where your `docs.json` is located:
+### 1. Generate Your Idea
 
-```
-mint dev
-```
+Start by prompting the AI with a short description of the video you want to create.\
+You can also specify the **language** for your video:
 
-View your local preview at `http://localhost:3000`.
+- Brazilian Portuguese
+- English (US)
 
-## Publishing changes
+Tabario will then generate a complete **video idea and script** based on your description.
 
-Install our GitHub app from your [dashboard](https://dashboard.mintlify.com/settings/organization/github-app) to propagate changes from your repo to your deployment. Changes are deployed to production automatically after pushing to the default branch.
+---
 
-## Need help?
+### 2. Refine Your Script
 
-### Troubleshooting
+Once your idea is ready, you can:
 
-- If your dev environment isn't running: Run `mint update` to ensure you have the most recent version of the CLI.
-- If a page loads as a 404: Make sure you are running in a folder with a valid `docs.json`.
+- Edit the current idea manually
+- Generate variations of the video script
+- Change the tone of voice (for example, from professional to funny, or serious to casual)
 
-### Resources
-- [Mintlify documentation](https://mintlify.com/docs)
+This gives you full creative control before producing the video.
+
+---
+
+### 3. Generate the Video
+
+After finalizing your idea, it’s time to bring it to life.
+
+Choose from several customization options:
+
+- **Art Style:**
+  - Cinematic
+  - Crayon Drawings
+  - Anime
+- **Voiceover Selection:**\
+  Pick from different AI voices.\
+  _(The subtitles language will automatically match the chosen voice.)_
+
+Then click **Generate Video**, and Tabario will handle the rest.
+
+_Video generation typically takes between 10–30 minutes, depending on script length._\
+_(Currently supports videos up to 60 seconds.)_
+
+---
+
+## Why Tabario?
+
+- Fast and simple — create videos in minutes
+- AI-driven creativity — from idea to final edit
+- Multilingual support — English and Portuguese
+- Customizable — styles, tones, and voices to match your brand
+- Perfect for marketing agencies, creators, and businesses
+
+---
+
+## Roadmap (Coming Soon)
+
+- Support for more languages
+- Advanced voice customization
+- Longer video durations
+- Integration with social media schedulers
+
+---
+
+## Feedback & Support
+
+We’d love to hear your thoughts.\
+Visit [www.tabario.com](https://www.tabario.com) or contact us directly for support and feature requests.
+
+---
+
+### Made with love ❤️ by the Tabario Team
